@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10950000000004303",
+      "name": "customerSupportApp",
+      "domain": {
+        "id": "10048134512",
+        "name": "customersupportapp-789609314.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "789609314",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
