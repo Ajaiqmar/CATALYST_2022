@@ -31,7 +31,7 @@ module.exports = (req, res) => {
 				from_email: "knowledge232002@gmail.com",
 				to_email: ["ajaiqmar@gmail.com"],
 				subject: "URGENT!! Issue raised by the customer.",
-				content: "<h1>"+username+"</h1><br/><h1>"+tweet+"</h1>"
+				content: "USERNAME : "+username+"  TWEET : "+tweet
 			};
 
 			const email = app.email();
