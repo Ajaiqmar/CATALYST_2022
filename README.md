@@ -1,6 +1,6 @@
 <img src="IMG/banner.png" />
 
-<h2> ✂ URL SHORTENER </h2>
+<h2> ✂ CATALYST 2022 </h2>
 <a href="https://shorten--url.herokuapp.com/">URL Shortener</a> is a MERN Application. The application is hosted on Heroku. I used a 5 character extension for my Shortened URL, So we can store upto 91,61,32,832 URLs. Try it out!!
 
 <h2> 📱TECHNOLOGY STACK </h2>
